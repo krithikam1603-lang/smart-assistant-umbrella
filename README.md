@@ -1,4 +1,4 @@
-# Smart Assistant Umbrella – Java Backend (Spring Boot + MySQL)
+# MORPHO UMBRELLA 
 
 College-project Java backend that matches the live web app.
 
